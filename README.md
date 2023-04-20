@@ -4,7 +4,8 @@
 ## REGISTER NUMBER : 212221240029
 
 ```java
- 1) Get user input using prompt(“Enter your age:”). If user is 18 or older , give feedback: 'You are old enough to drive' but if not 18 give another feedback stating to wait for the number of years he needs to turn 18. 
+ 1) Get user input using prompt(“Enter your age:”). If user is 18 or older , give feedback: 
+ 'You are old enough to drive' but if not 18 give another feedback stating to wait for the number of years he needs to turn 18. 
 
 Enter your age: 30
 you are old enough to drive.
@@ -28,7 +29,8 @@ else {
 <img width="322" alt="image" src="https://user-images.githubusercontent.com/93427240/233376839-858789e3-3da4-42c8-ad70-03cc15c7f074.png">
 
 ```java
-2) Compare the values of myAge and yourAge using if … else. Based on the comparison and log the result to console stating who is older (me or you). Use prompt(“Enter your age:”) to get the age as input.
+2) Compare the values of myAge and yourAge using if … else. Based on the comparison and log the result
+to console stating who is older (me or you). Use prompt(“Enter your age:”) to get the age as input.
 
 Enter your age: 30
 
