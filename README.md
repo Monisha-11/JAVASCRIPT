@@ -209,7 +209,7 @@ a{
 #### MAIN - PAGE
 <img width="1268" alt="image" src="https://user-images.githubusercontent.com/93427240/235308887-1a0f8d1a-c497-47cb-ad09-9c243db22848.png">
 
-#### FOOTER
+#### FOOTER - PAGE
 
 <img width="1250" alt="image" src="https://user-images.githubusercontent.com/93427240/235308957-193c452e-6ccc-4159-a3e7-683a49d17224.png">
 
